@@ -1,6 +1,6 @@
 ## Nome del Progetto / Project Name
 
-Stabilizzazione del pendolo inverso su cart / Stabilization-Reverse-Pendulum-on-Cart
+Stabilizzazione del pendolo inverso su cart / Stabilization-Reverse-Pendulum
 
 ---
 
