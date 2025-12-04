@@ -1,6 +1,6 @@
 ## Nome del Progetto / Project Name
 
-Stabilizzazione del pendolo inverso su cart / Stabilization-Reverse-Pendulum-on-Cart
+Stabilizzazione del pendolo inverso / Stabilization-Reverse-Pendulum
 
 ---
 
@@ -26,9 +26,7 @@ Stabilizzazione del pendolo inverso su cart / Stabilization-Reverse-Pendulum-on-
 
 ---
 
----
-
-### Esame / Exam
+### Esame / Exam (2nd project)
 
 (IT) : Controllo in Feedback Multivariabile (MFC) - facoltà magistrale di Ingegneria Informatica, ramo Automazione
 
