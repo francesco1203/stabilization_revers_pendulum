@@ -26,7 +26,7 @@ Stabilizzazione del pendolo inverso / Stabilization-Reverse-Pendulum
 
 ---
 
-### Esame / Exam (2nd project)
+### Esame / Exam (Unofficial project)
 
 (IT) : Controllo in Feedback Multivariabile (MFC) - facoltà magistrale di Ingegneria Informatica, ramo Automazione
 
